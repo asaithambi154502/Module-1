@@ -18,4 +18,4 @@ print(123,456,789)
 
 
 ## RESULT
-Hence the integer literals are verified by using print.
+Thus the python program for  following integer literals has been implemented and executed successfully.
