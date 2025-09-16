@@ -25,5 +25,5 @@ print("""I am a string literal
 
 
 ## RESULT
-Hence the string in  multiple lines program has been  verified using triple quotes.
+Thus the python program for  string in multiple lines using triple quotes has been implemented and executed successfully.
 
