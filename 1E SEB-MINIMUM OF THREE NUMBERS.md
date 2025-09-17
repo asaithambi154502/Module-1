@@ -29,4 +29,4 @@ print("The minimum of {}, {}, {} is {}".format(a,b,c,min))
 
 
 ## RESULT
-Thus the python program for  string in multiple lines using triple quotes has been implemented and executed successfully.
+Thus the python program for  find the minimum between three integer numbers has been implemented and executed successfully.
